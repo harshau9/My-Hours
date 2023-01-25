@@ -2,7 +2,7 @@
 
 ## Welcome to myhours.com clone
 
-Cloned My Hours, where you can track all your work. Add a detailed description to your time logs and expenses. We know time tracking is a hassle, so it is designed to track your work as super fast.
+My Hours is a time tracking and project management software that allows users to track time, create invoices, and manage projects and team members. The software can be used by individuals, small businesses, and teams to track time spent on tasks, projects and clients. It also offers features such as task assignment, invoicing, and detailed reports. It is available as a web-based application and can be accessed through a browser by visiting their website myhours.com
 
 ## [Deployed URL]( https://splendid-conkies-1f200f.netlify.app/)
 
